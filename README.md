@@ -1,4 +1,8 @@
-# Hi, I’m Urvish 👋
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=700&height=80&lines=Developer+%F0%9F%92%BB;Student+%F0%9F%8E%93;Python+Coder+%F0%9F%90%8D;Math+Enthusiast+%F0%9F%A7%AE;Open+Source+Contributor+%F0%9F%8C%90)](https://git.io/typing-svg)
+
+</div>
 
 I’m an Indian student from Germany with a strong interest in **mathematics, physics, and computer science**.  
 I enjoy building things, solving hard problems, and learning how the world works — from algorithms to astrophysics.
@@ -6,6 +10,7 @@ I enjoy building things, solving hard problems, and learning how the world works
 ---
 
 ## 🧠 Interests
+
 - Mathematics (problem solving, proofs, olympiad-style math)
 - Physics (especially astrophysics and mechanics)
 - Programming & computational thinking
@@ -39,6 +44,7 @@ I enjoy building things, solving hard problems, and learning how the world works
 ---
 
 ## 🚀 What I’m working on
+
 - Physics and math projects (simulations, explorations)
 - ML and AI training
 - Learning-focused repositories (clean code + documentation)
@@ -58,8 +64,22 @@ I’m open to **student-friendly, interesting collaborations**, especially:
 🌐 **Website:**  
 **[devnull-bootloader.github.io](https://devnull-bootloader.github.io)**
 
-(Please note: I’m still a student, so I mainly collaborate on intermediate leveled and open projects, that don't require long daily sessions.)
+(Please note: I’m still a student, so I mainly collaborate on intermediate leveled and open projects, that don’t require long daily sessions.)
 
+---
 
+<div align="center">
 
-Thanks for stopping by!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=34D399&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Feel+free+to+reach+out!+%F0%9F%93%AB;Let's+build+something+cool!+%F0%9F%94%A5)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devNull-bootloader/devNull-bootloader/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devNull-bootloader/devNull-bootloader/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devNull-bootloader/devNull-bootloader/output/github-contribution-grid-snake.svg">
+</picture>
