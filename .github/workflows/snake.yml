@@ -24,12 +24,6 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push snake to output branch
-        uses: peter-evans/create-pull-request@v6
-        if: false
-        with:
-          branch: output
-
-      - name: Deploy snake output
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: dist
