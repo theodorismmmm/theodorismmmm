@@ -22,6 +22,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=#39d353&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39&color_background=#ffffff
+            dist/github-contribution-grid-snake-dark.gif?palette=github-dark&color_snake=#39d353&color_background=#0d1117
+            dist/github-contribution-grid-snake-ocean.svg?color_snake=#ff8c42&color_dots=#0b1d36,#1b3a5c,#2e6da4,#4fa3e3,#7dd3fc
+            dist/github-contribution-grid-snake-ocean.gif?color_snake=#ff8c42&color_dots=#0b1d36,#1b3a5c,#2e6da4,#4fa3e3,#7dd3fc&color_background=#061525
 
       - name: Push snake to output branch
         uses: JamesIves/github-pages-deploy-action@v4
