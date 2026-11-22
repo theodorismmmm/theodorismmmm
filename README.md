@@ -32,6 +32,14 @@
 
 </div>
 
+#### Skills
+
+<div align="center">
+
+`AI Literacy` `AI Prompt Writing` `Generative AI Use` `AI Ethics` `Responsible AI` `Bias Detection and Mitigation` `Critical Thinking` `Problem Solving` `Machine Learning` `Deep Learning` `Natural Language Processing` `Computer Vision` `Chatbots` `Watson Studio` `Artificial Intelligence` `AI Capabilities` `AI Applications`
+
+</div>
+
 ---
 
 ### 🐍 Contribution snake
