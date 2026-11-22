@@ -21,35 +21,14 @@
 <div align="center">
 
 <a href="https://www.credly.com/users/theodorismmmm/badges">
-  <img src="https://credly-readme-stats.onrender.com/api/stats?username=theodorismmmm&theme=dark&cache_seconds=7200&t=2" alt="Credly Stats" />
+  <img src="https://credly-readme-stats.onrender.com/api/stats?username=theodorismmmm&theme=dark&cache_seconds=7200" alt="Credly Stats" />
 </a>
 
 <br/>
 
 <a href="https://www.credly.com/users/theodorismmmm/badges">
-  <img src="https://credly-readme-stats.onrender.com/api/grid?username=theodorismmmm&theme=dark&cache_seconds=7200&t=2" alt="Credly Badge Grid" />
+  <img src="https://credly-readme-stats.onrender.com/api/grid?username=theodorismmmm&theme=dark&cache_seconds=7200" alt="Credly Badge Grid" />
 </a>
-
-<br/>
-
-<a href="https://www.credly.com/badges/9e9fce57-2261-415a-bd21-0f7a40776463">
-  <img src="https://images.credly.com/images/bc70837c-99ae-499d-a31d-2a7be79095e6/BadgeEmblem_AILiteracy.png" width="110" alt="AI Literacy" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/284b7ee9-f67f-4da5-ab2b-f68a80c9b460">
-  <img src="https://images.credly.com/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" width="110" alt="Artificial Intelligence Fundamentals" />
-</a>
-
-**AI Literacy** · **Artificial Intelligence Fundamentals**  
-IBM SkillsBuild
-
-</div>
-
-#### Skills
-
-<div align="center">
-
-`AI Literacy` `AI Prompt Writing` `Generative AI Use` `AI Ethics` `Responsible AI` `Bias Detection and Mitigation` `Critical Thinking` `Problem Solving` `Machine Learning` `Deep Learning` `Natural Language Processing` `Computer Vision` `Chatbots` `Watson Studio` `Artificial Intelligence`
 
 </div>
 
