@@ -16,32 +16,6 @@
 
 ---
 
-### 🏆 Credly Badges & Skills
-
-<div align="center">
-
-<a href="https://www.credly.com/users/theodorismmmm/badges">
-  <img src="https://credly-readme-stats.onrender.com/api/stats?username=theodorismmmm&theme=dark&cache_seconds=7200" alt="Credly Stats" />
-</a>
-
-<br/>
-
-<a href="https://www.credly.com/users/theodorismmmm/badges">
-  <img src="https://credly-readme-stats.onrender.com/api/grid?username=theodorismmmm&theme=dark&cache_seconds=7200" alt="Credly Badge Grid" />
-</a>
-
-</div>
-
-#### Skills
-
-<div align="center">
-
-`AI Literacy` `AI Prompt Writing` `Generative AI Use` `AI Ethics` `Responsible AI` `Bias Detection and Mitigation` `Critical Thinking` `Problem Solving` `Machine Learning` `Deep Learning` `Natural Language Processing` `Computer Vision` `Chatbots` `Watson Studio` `Artificial Intelligence` `AI Capabilities` `AI Applications`
-
-</div>
-
----
-
 ### 🐍 Contribution snake
 
 <div align="center">
