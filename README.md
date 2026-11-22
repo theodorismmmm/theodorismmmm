@@ -21,13 +21,13 @@
 <div align="center">
 
 <a href="https://www.credly.com/users/theodorismmmm/badges">
-  <img src="https://credly-readme-stats.onrender.com/api/stats?username=theodorismmmm&theme=dark" alt="Credly Stats" />
+  <img src="https://credly-readme-stats.onrender.com/api/stats?username=theodorismmmm&theme=dark&cache_seconds=7200&t=1" alt="Credly Stats" />
 </a>
 
 <br/>
 
 <a href="https://www.credly.com/users/theodorismmmm/badges">
-  <img src="https://credly-readme-stats.onrender.com/api/grid?username=theodorismmmm&theme=dark" alt="Credly Badge Grid" />
+  <img src="https://credly-readme-stats.onrender.com/api/grid?username=theodorismmmm&theme=dark&cache_seconds=7200&t=1" alt="Credly Badge Grid" />
 </a>
 
 <br/>
