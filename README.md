@@ -16,6 +16,40 @@
 
 ---
 
+### 🏆 Credly Badges & Skills
+
+<div align="center">
+
+<a href="https://www.credly.com/users/theodorismmmm/badges">
+  <img src="https://credly-readme-stats.onrender.com/api/stats?username=theodorismmmm&theme=dark" alt="Credly Stats" />
+</a>
+
+<br/>
+
+<a href="https://www.credly.com/users/theodorismmmm/badges">
+  <img src="https://credly-readme-stats.onrender.com/api/grid?username=theodorismmmm&theme=dark" alt="Credly Badge Grid" />
+</a>
+
+<br/>
+
+<a href="https://www.credly.com/badges/284b7ee9-f67f-4da5-ab2b-f68a80c9b460">
+  <img src="https://images.credly.com/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" width="120" alt="Artificial Intelligence Fundamentals" />
+</a>
+
+**Artificial Intelligence Fundamentals** · IBM SkillsBuild
+
+</div>
+
+#### Skills from this badge
+
+<div align="center">
+
+`AI Applications` `AI Capabilities` `AI Ethics` `Artificial Intelligence` `Artificial Neural Networks` `Chatbots` `Computer Vision` `Deep Learning` `Machine Learning` `Natural Language Processing` `Watson Studio`
+
+</div>
+
+---
+
 ### 🐍 Contribution snake
 
 <div align="center">
