@@ -10,7 +10,35 @@
 
 <img src="https://streak-stats.demolab.com?user=theodorismmmm&theme=transparent&hide_border=true&background=0B1D36&ring=FF8C42&fire=FF8C42&currStreakLabel=4FA3E3&sideLabels=4FA3E3&dates=7DD3FC" alt="GitHub streak stats" />
 
-[![Python and Ruby](https://skillicons.dev/icons?i=python,ruby&theme=dark)](https://skillicons.dev)
+</div>
+
+---
+
+### 🏆 Credly Badges
+
+<div align="center">
+
+<a href="https://www.credly.com/users/theodorismmmm/badges">
+  <img src="https://credly-readme-stats.onrender.com/api/stats?username=theodorismmmm&theme=dark&cache_seconds=7200" alt="Credly Stats" />
+</a>
+
+<br/>
+
+<a href="https://www.credly.com/users/theodorismmmm/badges">
+  <img src="https://credly-readme-stats.onrender.com/api/grid?username=theodorismmmm&theme=dark&cache_seconds=7200" alt="Credly Badge Grid" />
+</a>
+
+</div>
+
+### 🛠️ Skills
+
+<div align="center">
+
+**Verified (Credly)**  
+![AI Literacy](https://img.shields.io/badge/AI%20Literacy-FFD700?style=flat-square&logoColor=black) ![AI Prompt Writing](https://img.shields.io/badge/AI%20Prompt%20Writing-FFD700?style=flat-square) ![Generative AI Use](https://img.shields.io/badge/Generative%20AI%20Use-FFD700?style=flat-square) ![AI Ethics](https://img.shields.io/badge/AI%20Ethics-FFD700?style=flat-square) ![Responsible AI](https://img.shields.io/badge/Responsible%20AI-FFD700?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFD700?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FFD700?style=flat-square) ![Natural Language Processing](https://img.shields.io/badge/NLP-FFD700?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FFD700?style=flat-square) ![Chatbots](https://img.shields.io/badge/Chatbots-FFD700?style=flat-square) ![Watson Studio](https://img.shields.io/badge/Watson%20Studio-FFD700?style=flat-square) ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FFD700?style=flat-square)
+
+**Personal**  
+![Python](https://img.shields.io/badge/Python-6B7280?style=flat-square&logo=python&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-6B7280?style=flat-square&logo=ruby&logoColor=white)
 
 </div>
 
